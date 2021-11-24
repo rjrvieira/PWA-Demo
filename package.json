@@ -1,0 +1,17 @@
+{
+  "name": "WebinarPWA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8080"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "Maximilian Schwarzmüller",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
